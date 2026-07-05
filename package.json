@@ -1,0 +1,22 @@
+{
+  "name": "codeday-nodejs-onboarding",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/joshjyu/codeday-nodejs-onboarding#readme",
+  "bugs": {
+    "url": "https://github.com/joshjyu/codeday-nodejs-onboarding/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshjyu/codeday-nodejs-onboarding.git"
+  },
+  "license": "ISC",
+  "author": "Joshua Yu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
